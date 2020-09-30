@@ -1,0 +1,22 @@
+{
+  "name": "api-nodejs-with-mongose",
+  "version": "1.0.0",
+  "description": "This api is created just for study mongose",
+  "main": "app.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/sempejunior/api-nodejs-with-mongose.git"
+  },
+  "author": "Carlos Sempé",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/sempejunior/api-nodejs-with-mongose/issues"
+  },
+  "homepage": "https://github.com/sempejunior/api-nodejs-with-mongose#readme",
+  "dependencies": {
+    "express": "^4.17.1"
+  }
+}
